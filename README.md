@@ -29,6 +29,7 @@ Verify if that is only item present in the checkout page| -
   * Download Chrome webdriver
   * place it in the any folder inside the project
   * Set the property using below line of code.
+  
   ```
   System.setProperty("webdriver.chrome.driver", "/path to chromedriver");
   ```
